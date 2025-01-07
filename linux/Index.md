@@ -49,3 +49,7 @@
 # tar gz 格式压缩 -cjf -czf
 
 # tar -xvf 解压
+
+# root -> sudo 权限
+
+# sudo su 超级管理员
